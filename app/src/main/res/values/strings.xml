@@ -1,5 +1,19 @@
 <resources>
     <string name="app_name">NegnMordHero</string>
-    <string name="hero1">Nick the Night and Day</string>
-    <string name="description1">The Jetpack Hero</string>
+    <string name="car1">Subaru Impreza WRX STI</string>
+    <string name="description1">На нём гонял Коллин Макрей</string>
+    <string name="car2">Mini Cooper</string>
+    <string name="description2">Мини купер розовый</string>
+    <string name="car3">Porshe 911 GTI</string>
+    <string name="description3">Поршак</string>
+    <string name="car4">Mercedes Benz E class</string>
+    <string name="description4">Мерик</string>
+    <string name="car5">Lixiang L7</string>
+    <string name="description5">Китаец</string>
+    <string name="car6">BMW E36</string>
+    <string name="description6">Бумер</string>
+    <string name="car7">Lexus LX570</string>
+    <string name="description7">Лехус</string>
+    <string name="car8">BMW M5 F90</string>
+    <string name="description8">Без поворотников</string>
 </resources>
