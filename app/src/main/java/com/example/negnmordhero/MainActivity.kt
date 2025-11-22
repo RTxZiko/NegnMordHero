@@ -27,6 +27,7 @@ import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
@@ -49,7 +50,7 @@ class MainActivity : ComponentActivity() {
                         TopAppBar(
                             title = {
                                 Text(
-                                    text = "Superheroes",
+                                    text = "Машины",
                                     modifier = Modifier.fillMaxWidth(),
                                     fontSize = 30.sp,
                                     textAlign = TextAlign.Center
@@ -125,9 +126,9 @@ fun HeroPreview() {
     NegnMordHeroTheme {
         HeroListItem(
             hero = Hero(
-                nameRes = R.string.hero1,
+                nameRes = R.string.car1,
                 descriptionRes = R.string.description1,
-                imageRes = R.drawable.hero1
+                imageRes = R.drawable.car1
             )
         )
     }
